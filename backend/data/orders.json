@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "customer": {
+      "name": "asdfasdfasdf",
+      "email": "asdfasddsf@asdf",
+      "street": "asdfasdf",
+      "city": "asdfasd",
+      "postal-code": "121323"
+    },
+    "items": [
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 3
+      }
+    ],
+    "id": "438.8196566886877"
+  },
+  {
+    "customer": {
+      "name": "asdfasdfasdf",
+      "email": "asdfasddsf@asdf",
+      "street": "asdfasdf",
+      "city": "asdfasd",
+      "postal-code": "121323"
+    },
+    "items": [
+      {
+        "id": "m2",
+        "name": "Margherita Pizza",
+        "price": "12.99",
+        "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+        "image": "images/margherita-pizza.jpg",
+        "quantity": 3
+      }
+    ],
+    "id": "230.36151708900454"
+  }
+]
